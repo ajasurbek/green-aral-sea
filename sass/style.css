@@ -114,8 +114,8 @@ body {
 }
 
 .site_hero {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), color-stop(70.2%, rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0))), url("../img/Aral_Sea_Ship_GraveYeard (2) 1.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 70.2%, rgba(0, 0, 0, 0) 100%), url("../img/Aral_Sea_Ship_GraveYeard (2) 1.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), color-stop(70.2%, rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0))), url("../img/aral-ship.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 70.2%, rgba(0, 0, 0, 0) 100%), url("../img/aral-ship.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
